@@ -1,4 +1,6 @@
-[**This article is published in full on the Auth0 developer blog...**](https://auth0.com/blog/)
+![Auth0 Guest Authors Logo](logo.png)
+
+[**This article is published in full on the Auth0 developer blog**](https://auth0.com/blog/)
 
 
 # Introduction to Streamlit and Streamlit Components
