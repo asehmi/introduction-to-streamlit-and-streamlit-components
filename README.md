@@ -1,4 +1,4 @@
-![Auth0 Guest Authors Logo](logo.png)
+![Auth0 Guest Authors Logo](https://github.com/auth0-blog/streamlit-asehmi/blob/main/article-1/code/components/hero/app/images/logo.png)
 
 [**This article is published in full on the Auth0 developer blog**](https://auth0.com/blog/)
 
